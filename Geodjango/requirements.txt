@@ -1,0 +1,10 @@
+asgiref==3.2.10
+Django==3.1.1
+django-crispy-forms==1.9.2
+django-leaflet==0.27.1
+psycopg2==2.8.6
+psycopg2-binary==2.8.6
+pytz==2020.1
+sqlparse==0.3.1
+whitenoise==5.2.0
+uWSGI==2.0.19.1

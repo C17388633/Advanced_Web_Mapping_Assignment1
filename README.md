@@ -1,2 +1,2 @@
 # Advanced_Web_Mapping_Assignment1
-Assignment 1 for Advamced Web Mapping Module
+Assignment 1 for Advanced Web Mapping Module
